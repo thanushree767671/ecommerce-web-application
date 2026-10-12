@@ -105,4 +105,4 @@ This project demonstrates the development of an e-commerce web application using
 
 ## Author
 
-Thanushree
+Thanushree G M
